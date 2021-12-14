@@ -1,4 +1,4 @@
-const txtElement = ['Penyanyi', 'Editor Video', 'Graphic Designer'];
+const txtElement = ['Penyanyi', 'Penari', 'Calon Musisi'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
